@@ -5,7 +5,7 @@ Comparando modelos para análise sentimentos em comentários de e-commerce
 Estudo desenvolvido comparando modelos tradicionais de classificação para uso em análise de sentimentos
 com o LeIA(versão em português do VADER) Sentiment Analyzer
 
-Git LeIA: https://github.com/rafjaa/LeIA
+Git LeIA: https://github.com/rafjaa/LeIA   Autor: Almeida, Rafael J. A.
 
 Citação (BibTeX)
 Se você utilizar este projeto em sua pesquisa, considere citar o repositório:
